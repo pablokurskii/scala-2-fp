@@ -23,6 +23,10 @@ infix notation (ex. val1 method "string"), only allowed if method has only one p
 #21
 case class - with FP, classes are stateless, needs to use in PM(pattern matching)
 
+#26
+when you need FP approach use Lambda...see example
+
+
 
 
 

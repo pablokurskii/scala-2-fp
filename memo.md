@@ -15,6 +15,11 @@ RAW - ignores literals and prints it as is
 #12
 infix notation (ex. val1 method "string"), only allowed if method has only one parameter
 
+#18
+* to support covariance of generics use [+A], otherwise just [A], means support more Generic type for +A, A is strict
+* to implement generic **producer (extends)** use type [A <: SomeGeneralClass]
+* to implement generic **consumer (super)** use type [A >: SomeGeneralClass]
+
 
 
 

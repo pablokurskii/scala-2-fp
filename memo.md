@@ -20,6 +20,10 @@ infix notation (ex. val1 method "string"), only allowed if method has only one p
 * to implement generic **producer (extends)** use type [A <: SomeGeneralClass]
 * to implement generic **consumer (super)** use type [A >: SomeGeneralClass]
 
+#21
+case class - with FP, classes are stateless, needs to use in PM(pattern matching)
+
+
 
 
 

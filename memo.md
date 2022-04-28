@@ -33,5 +33,9 @@ when you need FP approach use Lambda...see example
 * use for{}yield instead on inliners flatmap.map and etc.. see example
 
 
+#33
+watch it - very nice social network expl
+
+
 
 

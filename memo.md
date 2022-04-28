@@ -26,7 +26,11 @@ case class - with FP, classes are stateless, needs to use in PM(pattern matching
 #26
 when you need FP approach use Lambda...see example
 
+#27 & #28 SKIPPED 
 
+#29
+* if you need to concat string and number use map("" + number + string)
+* use for{}yield instead on inliners flatmap.map and etc.. see example
 
 
 

@@ -37,7 +37,14 @@ when you need FP approach use Lambda...see example
 watch it - very nice social network expl
 
 #34
-when design API or work with API, use Option() with handlers like .orElse()
+Null or Not null values // Option[...]
+when design API or work with API, use Option() with handlers like  orElse
+to process results of options use map, flatMap... see example
+
+#35
+Exception or not Exception// Try[...]
+when design API or work with API, use Try() with handlers like  orElse instead of try{}catch(){}
+
 
 
 

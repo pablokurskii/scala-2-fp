@@ -19,7 +19,7 @@ object Options extends App {
   // chained methods
   def backupMethod(): String = "A valid result"
 
-  val chainedResult = Option(unsafeMethod()).orElse(Option(backupMethod()))
+  val chainedResult = Option(unsafeMethod()) orElse Option(backupMethod())
 
   // DESIGN unsafe APIs
   def betterUnsafeMethod(): Option[String] = None

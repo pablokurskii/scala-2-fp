@@ -36,6 +36,9 @@ when you need FP approach use Lambda...see example
 #33
 watch it - very nice social network expl
 
+#34
+when design API or work with API, use Option() with handlers like .orElse()
+
 
 
 

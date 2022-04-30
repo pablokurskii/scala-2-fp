@@ -21,7 +21,8 @@ infix notation (ex. val1 method "string"), only allowed if method has only one p
 * to implement generic **consumer (super)** use type [A >: SomeGeneralClass]
 
 #21
-case class - with FP, classes are stateless, needs to use in PM(pattern matching)
+* case class - with FP, classes are stateless, 
+* mark class as case class to use in pattern matching
 
 #26
 when you need FP approach use Lambda...see example

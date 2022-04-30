@@ -46,6 +46,10 @@ to process results of options use map, flatMap... see example
 Exception or not Exception// Try[...]
 when design API or work with API, use Try() with handlers like  orElse instead of try{}catch(){}
 
+#37
+examples of what can be passed to PM
+_* - vararg
+
 
 
 

@@ -50,6 +50,9 @@ when design API or work with API, use Try() with handlers like  orElse instead o
 examples of what can be passed to PM
 _* - vararg
 
+#38
+some weird syntax - examples
+
 
 
 
